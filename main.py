@@ -1,5 +1,7 @@
 import pyautogui
 
+print('x and y cordinate of your mouse currently is - '.format(pyautogui.position()))
+
 is_instagram = False
 message = 'hello world'
 if is_instagram:
