@@ -5,4 +5,6 @@ python script to control mouse and keyboard for sending automated message to cha
 # step to run
 
 1 - pip install pyautogui
+
+
 2 - run script by python main.py
